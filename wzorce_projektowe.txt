@@ -68,4 +68,12 @@ Konstrukcujne
 Jej celem jest dostarzcenie interfejsu do twozrenia obiektów nieokreslonych jako powiazanych typów.
 
 
+zalety metody wytwórczej 
+-łatwy do rozszerzenia
+-łatwiejszy do przetestowanie 
+
+wada 
+- za duzo
+
+
 

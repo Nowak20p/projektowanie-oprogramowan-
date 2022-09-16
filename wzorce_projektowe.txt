@@ -1,0 +1,71 @@
+Wzorce projektowe
+ 
+https://refactoring.guru/
+
+23 wzorce
+
+Po co nam wzorce?
+Wzorce projektowe sa zestwawem narzedziowym składającycm sie z wypróbowanych rozwiązań typowych problemów pojawiających sie podczas projektowania oprogramowania.
+
+Korzści płynące ze stosowania wzorców projektowych.
+
+-czysty kod
+-łatwośc w pracy 
+
+SOLID
+
+S - pojedyncza odpowiedzialnosc
+O - otwarta (do rozbudowania)
+L - (Liskov) zasada podstawiania 
+I - segregacja interfejsów
+D - zasada odwróconej zależności (nie czeka az wyda rozkaz tylko robi sama)
+
+
+
+Klasyfikacja
+
+1 Strukturalne (powiazanie, zazadzanie obiektami)
+2 Behawioralne/czynnosciowe /operacyjne (zależności miedzy obiektami)
+3 Konstrukcujne/kreacyjne (pilnuja aby kod sie nie rozrastał)
+
+
+
+Strukturalne
+adapter
+fasada 
+dekorator
+kompozyt
+most
+pełnomocnik
+
+
+Behavioralne 
+łancych zobowiązań
+polecenie
+iterator
+mediator
+pamiatka
+obserwator
+stan
+strategia
+metoda szablonowa
+odwiedzający
+
+
+Konstrukcujne
+metoda wytwórcza
+budowniczy
+singleton
+fabryka abstrakcyjna
+Prototyp 
+
+
+
+
+
+Konstrukcujne
+
+Jej celem jest dostarzcenie interfejsu do twozrenia obiektów nieokreslonych jako powiazanych typów.
+
+
+

@@ -1,0 +1,30 @@
+abstract class Samochod{
+	public marka : string;
+	public kolor : string;
+	public iloscDrzwi : string;
+    private stanZakupu :string;
+    abstract private function wybierzKolor() : string;
+}
+
+
+abstract class SamochodElektryczny{
+	public wielkoscAkumulatora : float;
+}
+
+abstract class Samochodspalinowy{
+	public spalanie : float;
+}
+
+class KupSamochod{
+	public function KupSamochod(string $dbaloscOsrodowisko) : Samochod{
+		samochod = null;
+		switch(dbaloscOsrodowisko){
+			case "duza":
+				samochod = new SamochodElektryczny();
+				return samochod;
+			case "mała":
+				samochod = new Samochodspalinowy();
+				return samochod;
+		}
+	}
+}

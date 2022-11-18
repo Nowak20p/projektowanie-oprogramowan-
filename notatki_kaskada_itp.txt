@@ -1,0 +1,37 @@
+Lekcja
+Temat: Programy zarzadzania projektami - Jira
+
+
+Model kaskadowy
+jeden po drugim każdy po kolei 
+
+-WYMAGANIA
+-PROJEKTOWANIE
+-IMPLEMENTACJA
+-TESTOWANIE
+-WDROŻENIE
+
+Zalety 
+
+Wady
+w przypadku błedu ponosimy du że straty czasowe i finansowe
+
+-----------------------------------------------------------------------------------------
+
+Metoda delficka
+przedstawienie problemu eksportom i oni podejmują decyzje
+
+-----------------------------------------------------------------------------------------
+
+Metoda Prototypowa
+prosta implementacja 
+
+1. okreslenie wymagań
+2. budowa prototypu
+3. weryfikacja przez klienta
+4. wyczerpujące określenie wymagań
+5. realizacja pełnego systemu zgodnie z moodelem kaskadowym
+ 
+-----------------------------------------------------------------------------------------
+
+

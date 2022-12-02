@@ -1,0 +1,38 @@
+Zarzadzanie projektem 
+
+Metodyka - zbiór metod 
+
+Metodyki zwinne agile
+tak aby móc go tanim kosztem poprawić
+
+1 ludzie i interakcje sa wazniejszy niz narzedzie 
+2 działajace oprogramowanie jest wzniejsza niz bardzo szeroka dokumentacja
+3 postawienie na wspiłprace w klientem ponad wsszytko 
+4 reagowanie na zmiany ponad celem
+
+zalety metody agile
+elastyczne podejscie do zmiaan
+koncentracja na dostarczonej wartosci
+stosowanie krótkich interakcji ora weryfikacji po kazdej z nich
+wzmoznienie samodzielnosci o odpowiedzialności członków zespołu
+
+
+SCRUM
+metodyka o charakterze interacyjnym oraz przyrostowym, zaliczana do zwinnychmetod pracy zgodnie z manifestem agile
+-Produkt Owner wybur zadania   (1)
+-Scrum master czuwa nad nim i sprawdza czy projekt jest przeprowadzany zwinnnie  (1)
+-Developerzy (wszyscy inni którzy pracuja )
+
+
+
+BACKLOG czynnosci które trzeba wykonac abyu dojsc do celu
+
+
+
+
+
+
+
+
+
+  

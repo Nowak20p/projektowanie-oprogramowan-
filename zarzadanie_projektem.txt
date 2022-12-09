@@ -19,9 +19,10 @@ wzmoznienie samodzielnosci o odpowiedzialności członków zespołu
 
 SCRUM
 metodyka o charakterze interacyjnym oraz przyrostowym, zaliczana do zwinnychmetod pracy zgodnie z manifestem agile
--Produkt Owner wybur zadania   (1)
+-Produkt Owner wybór zadania   (1)
 -Scrum master czuwa nad nim i sprawdza czy projekt jest przeprowadzany zwinnnie  (1)
 -Developerzy (wszyscy inni którzy pracuja )
+
 
 
 
